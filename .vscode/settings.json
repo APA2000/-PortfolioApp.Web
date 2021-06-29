@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "**/src/views/**/*.js": "javascriptreact",
+        "**/src/components/**/*.js": "javascriptreact",
+        "**/App.js": "javascriptreact",
+        "**/src/index.js": "javascriptreact",
+    }
+}
